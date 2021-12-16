@@ -1,4 +1,4 @@
-It (i.e., Fig 8.opj)  is an Origin project file. Please use Origin (https://www.originlab.com/) to open the file. 
+It (i.e., 54 sub graphs for Fig 8.opj)  is an Origin project file. Please use Origin (https://www.originlab.com/) to open the file. 
 
 Please select menu Window -> other widows(M)... to open the corresponding sub graph (please use Name and Type to guide your selection).
 
