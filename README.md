@@ -7,7 +7,14 @@ Note that we only provide some sample CDNs and ICDNs. The whole data set and too
 This directory contains the CDNs and ICDNs that we built for all the subject systems used in our experiments. CDN is the network used in Qu et al.'s work while ICDN is our improved version of CDNs. Note that the whole data set will be available after our work's acceptance. Of course, interested readers can email us (Email: wfpan@zjgsu.edu.cn) to get the whole data set in advance. Please use your institutional email address.
 
 # Fig8
-Fig8 contains a more detailed, clearer representation of Fig. 8 in our work.This directory contains the results that we obtained for the sample networks.
+This directory contains a more detailed, clearer representation of Fig. 8 in our work.
+
+
+# code
+This directory contains Qu et al.'s code and our code.
+
+# Random Forest Results.pdf
+This file reports the results that we obtained using Random Forest models.
 
 # Results
 This directory contains the results that we obtained for the sample networks.
