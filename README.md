@@ -7,10 +7,6 @@ This directory contains the CDNs and ICDNs that we built for all the subject sys
 # Fig8
 This directory contains a more detailed, clearer representation of Fig. 8 in our work.
 
-
-# code
-This directory contains Qu et al.'s code and our code.
-
 # Random Forest Results.pdf
 This file reports the results that we obtained using Random Forest models.
 
