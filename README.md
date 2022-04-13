@@ -1,5 +1,5 @@
 # ITC_TSE2021
-This is the replication package for our work accepted by IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Hua Ming, Zijiang Yang, Tian Wang. Comments on "Using k-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance". IEEE Transactions on Software Engineering, 2022, DOI: 10.1109/TSE.2022.3140599 [[PDF](https://ieeexplore.ieee.org/document/8862895)]
+This is the replication package for our work published in IEEE Transactions on Software Engineering, i.e., Weifeng Pan, Hua Ming, Zijiang Yang, Tian Wang. Comments on "Using k-core Decomposition on Class Dependency Networks to Improve Bug Prediction Model's Practical Performance". IEEE Transactions on Software Engineering, 2022, DOI: 10.1109/TSE.2022.3140599 [[PDF](https://ieeexplore.ieee.org/document/8862895)]
 
 # CDN-Qu et al. and ICDN-pan et al.
 This directory contains the CDNs and ICDNs that we built for all the subject systems used in our experiments. CDN is the network used in Qu et al.'s work while ICDN is our improved version of CDNs.
